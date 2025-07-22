@@ -8,7 +8,7 @@ A simple, responsive, and modern bus travel template built using HTML5, CSS3, an
 
 ## 📥 Download
 
-- [Download](https://github.com/prashtt/BusTravel-website)
+- [Download from ThemeWagon](https://themewagon.com/themes/bustraveller/)
 
 ## 🛠 Getting Started
 
